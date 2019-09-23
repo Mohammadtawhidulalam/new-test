@@ -1,1 +1,2 @@
-we are learning git and this is awesome...now we can check different commit..
+we are learning git and this is awesome...now we can check .
+now we are going to learn about diff command..ata akn add kra hyece..
